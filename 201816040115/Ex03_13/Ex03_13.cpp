@@ -32,3 +32,5 @@ int main()
     cout << "Part price:" << commodity3.getPrice() << endl;
     cout <<"Total part sales:" << commodity3.getInvoiceAmount(commodity3.getNum(),commodity3.getPrice()) << endl;*/
 }
+
+//Review
