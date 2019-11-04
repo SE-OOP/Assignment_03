@@ -1,4 +1,4 @@
-// Exercise 3.13 Solution: ex03_13.cpp
+// Exercise 3.13 Solution: Ex03_13.cpp
 // Create and manipulate an Invoice object.
 #include <iostream>
 #include "Invoice.h"
