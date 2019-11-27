@@ -4,6 +4,7 @@ class Date
 {
 	public:
 		Date(int, int,int);//申明构造函数； 
+		Date(int, int,int);//声明构造函数； 
 		void setyear(int);
 		int  getyear();
 		void setmonth(int);

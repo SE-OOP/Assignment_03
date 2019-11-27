@@ -12,6 +12,7 @@ int main()
 	cout<<"fapiaoe2:"<<v2.getInvoiceAmount(5,30)<<endl;
 	string a1,a2,a5,a6;
 	int a3,a4,a7,a8;
+  cout<<"请输入:";
 	cin>>a1>>a2>>a3>>a4;//对对象v1中的四个数据成员重新进行赋值； 
 	cin>>a5>>a6>>a7>>a8;//对对象v2中的四个数据成员重新进行赋值； 
 	v1.setnumber(a1);
