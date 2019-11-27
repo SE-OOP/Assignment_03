@@ -1,3 +1,4 @@
+
 #include <iostream>
 #include<string>
 #include "Invoice.h"
@@ -50,3 +51,4 @@ int Invoice::getInvoiceAmount(int n3,int n4)//getInvoiceAmount函数的定义；
 		return a;
 	}
 }
+
